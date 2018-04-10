@@ -1,0 +1,10 @@
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.deps.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.runtimeconfig.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.runtimeconfig.dev.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.pdb
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.csproj.CoreCompileInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.AssemblyInfoInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.AssemblyInfo.cs
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntermediateAssignments\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.pdb

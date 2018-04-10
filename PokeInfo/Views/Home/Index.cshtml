@@ -1,0 +1,18 @@
+﻿<div class="container">
+    <h1>Pokemon: @ViewBag.Pokemon["name"]</h1>
+    <img class="img-responsive" src=@ViewBag.Pokemon["sprites"]["front_default"] alt="pokemon sprite image">
+    @if(@ViewBag.Pokemon["types"][0]["slot"] == 1)
+    {
+        <h3>Primary Type: @ViewBag.Pokemon["types"][0]["type"]["name"]</h3>
+    }
+    else
+    {
+        <h3>Primary Type: @ViewBag.Pokemon["types"][1]["type"]["name"]</h3>
+    }
+    @if(@ViewBag.Pokemon["types"][0]["slot"] == 2)
+    {
+        <h3>Secondary Type: @ViewBag.Pokemon["types"][0]["type"]["name"]</h3>
+    }
+    <h3>Height: @ViewBag.Pokemon["height"]</h3>
+    <h3>Weight: @ViewBag.Pokemon["weight"]</h3>
+</div>
