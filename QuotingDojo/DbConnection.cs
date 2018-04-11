@@ -8,10 +8,10 @@ namespace QuotingDojo.Connectors
     public class DbConnector
     {
         static string server = "localhost";
-        static string db = "quotingdojo"; //Change to your schema name
-        static string port = "3306"; //Potentially 8889
-        static string user = "root";
-        static string pass = "root";
+        static string db = "quotingdojo";
+        static string port = "3306"; 
+        static string user = ""; //removed for security reasons
+        static string pass = ""; //removed for security reasons
         internal static IDbConnection Connection {
             get {
                 return new MySqlConnection($"Server={server};Port={port};Database={db};UserID={user};Password={pass};SslMode=None");
